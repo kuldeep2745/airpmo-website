@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/airpmo-website/static/css/main.f1e64b99.css",
-    "main.js": "/airpmo-website/static/js/main.a2a77353.js",
+    "main.js": "/airpmo-website/static/js/main.1be6fff3.js",
     "static/js/787.4e8123d8.chunk.js": "/airpmo-website/static/js/787.4e8123d8.chunk.js",
     "static/media/loginsvg.png": "/airpmo-website/static/media/loginsvg.29008f06185ec4c317b9.png",
     "index.html": "/airpmo-website/index.html",
     "main.f1e64b99.css.map": "/airpmo-website/static/css/main.f1e64b99.css.map",
-    "main.a2a77353.js.map": "/airpmo-website/static/js/main.a2a77353.js.map",
+    "main.1be6fff3.js.map": "/airpmo-website/static/js/main.1be6fff3.js.map",
     "787.4e8123d8.chunk.js.map": "/airpmo-website/static/js/787.4e8123d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1e64b99.css",
-    "static/js/main.a2a77353.js"
+    "static/js/main.1be6fff3.js"
   ]
 }
